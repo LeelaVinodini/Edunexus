@@ -1,0 +1,8 @@
+Search Strategies and Heuristics
+
+Course: Artificial Intelligence (CSE304-B)
+Semester: 6, Academic Year: 3, Section: B
+
+This unit covers search strategies and heuristics for Artificial Intelligence.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

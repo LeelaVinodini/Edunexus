@@ -1,0 +1,8 @@
+Cloud Security, Monitoring and Cost Management
+
+Course: Cloud Computing (CSE306-B)
+Semester: 6, Academic Year: 3, Section: B
+
+This unit covers cloud security, monitoring and cost management for Cloud Computing.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

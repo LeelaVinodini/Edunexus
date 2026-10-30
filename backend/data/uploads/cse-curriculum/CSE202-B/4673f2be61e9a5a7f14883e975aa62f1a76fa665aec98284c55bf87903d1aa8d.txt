@@ -1,0 +1,8 @@
+Input/Output Systems, Buses and Parallel Processing
+
+Course: Computer Organization and Architecture (CSE202-B)
+Semester: 3, Academic Year: 2, Section: B
+
+This unit covers input/output systems, buses and parallel processing for Computer Organization and Architecture.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

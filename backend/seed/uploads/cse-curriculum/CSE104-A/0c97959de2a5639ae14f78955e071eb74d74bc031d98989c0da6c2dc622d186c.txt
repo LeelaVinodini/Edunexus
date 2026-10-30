@@ -1,0 +1,8 @@
+Laplace Transforms and Applications
+
+Course: Engineering Mathematics II (CSE104-A)
+Semester: 2, Academic Year: 1, Section: A
+
+This unit covers laplace transforms and applications for Engineering Mathematics II.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

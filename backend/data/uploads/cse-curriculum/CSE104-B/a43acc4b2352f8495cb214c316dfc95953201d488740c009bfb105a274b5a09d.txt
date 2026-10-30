@@ -1,0 +1,8 @@
+Probability, Statistics and Distributions
+
+Course: Engineering Mathematics II (CSE104-B)
+Semester: 2, Academic Year: 1, Section: B
+
+This unit covers probability, statistics and distributions for Engineering Mathematics II.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

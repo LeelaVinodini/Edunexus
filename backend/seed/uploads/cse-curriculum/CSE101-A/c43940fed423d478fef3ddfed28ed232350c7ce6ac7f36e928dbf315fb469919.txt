@@ -1,0 +1,8 @@
+Infinite Sequences, Series and Numerical Methods
+
+Course: Engineering Mathematics I (CSE101-A)
+Semester: 1, Academic Year: 1, Section: A
+
+This unit covers infinite sequences, series and numerical methods for Engineering Mathematics I.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

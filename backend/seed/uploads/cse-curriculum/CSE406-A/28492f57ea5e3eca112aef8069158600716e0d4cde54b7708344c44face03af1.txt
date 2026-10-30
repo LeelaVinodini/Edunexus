@@ -1,0 +1,8 @@
+Viva Voce Preparation and Evaluation
+
+Course: Seminar and Comprehensive Viva (CSE406-A)
+Semester: 8, Academic Year: 4, Section: A
+
+This unit covers viva voce preparation and evaluation for Seminar and Comprehensive Viva.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

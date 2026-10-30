@@ -1,0 +1,6 @@
+Stacks and queues
+
+A stack removes the most recent item first, which is called last-in first-out.
+The peek operation inspects the top item without removing it.
+Function calls and undo history are practical uses of a stack.
+A queue removes the earliest item first.

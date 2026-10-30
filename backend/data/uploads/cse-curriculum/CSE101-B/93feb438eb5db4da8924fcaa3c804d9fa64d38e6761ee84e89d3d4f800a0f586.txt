@@ -1,0 +1,8 @@
+Matrices and Systems of Linear Equations
+
+Course: Engineering Mathematics I (CSE101-B)
+Semester: 1, Academic Year: 1, Section: B
+
+This unit covers matrices and systems of linear equations for Engineering Mathematics I.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

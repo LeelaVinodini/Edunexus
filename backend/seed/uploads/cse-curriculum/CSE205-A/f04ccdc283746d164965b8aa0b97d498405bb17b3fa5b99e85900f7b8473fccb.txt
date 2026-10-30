@@ -1,0 +1,8 @@
+Distributed Databases and NoSQL Systems
+
+Course: Database Management Systems (CSE205-A)
+Semester: 4, Academic Year: 2, Section: A
+
+This unit covers distributed databases and nosql systems for Database Management Systems.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

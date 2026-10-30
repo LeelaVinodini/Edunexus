@@ -1,0 +1,8 @@
+Processor Architecture and Control Units
+
+Course: Computer Organization and Architecture (CSE202-A)
+Semester: 3, Academic Year: 2, Section: A
+
+This unit covers processor architecture and control units for Computer Organization and Architecture.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

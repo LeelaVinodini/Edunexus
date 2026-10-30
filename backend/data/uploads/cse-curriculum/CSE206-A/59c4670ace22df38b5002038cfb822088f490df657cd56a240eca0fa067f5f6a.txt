@@ -1,0 +1,8 @@
+Divide and Conquer Techniques
+
+Course: Design and Analysis of Algorithms (CSE206-A)
+Semester: 4, Academic Year: 2, Section: A
+
+This unit covers divide and conquer techniques for Design and Analysis of Algorithms.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

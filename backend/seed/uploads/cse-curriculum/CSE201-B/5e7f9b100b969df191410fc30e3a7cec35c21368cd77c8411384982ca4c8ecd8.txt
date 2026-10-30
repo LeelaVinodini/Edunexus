@@ -1,0 +1,8 @@
+Sorting, Searching and Algorithm Analysis
+
+Course: Data Structures and Algorithms (CSE201-B)
+Semester: 3, Academic Year: 2, Section: B
+
+This unit covers sorting, searching and algorithm analysis for Data Structures and Algorithms.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

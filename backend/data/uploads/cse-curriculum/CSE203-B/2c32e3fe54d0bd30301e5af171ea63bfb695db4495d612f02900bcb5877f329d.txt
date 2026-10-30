@@ -1,0 +1,8 @@
+Trees, Colouring and Network Flows
+
+Course: Discrete Mathematics and Graph Theory (CSE203-B)
+Semester: 3, Academic Year: 2, Section: B
+
+This unit covers trees, colouring and network flows for Discrete Mathematics and Graph Theory.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

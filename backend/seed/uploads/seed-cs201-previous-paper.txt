@@ -1,0 +1,5 @@
+Previous paper CS201 sample
+
+Question 1. Explain stack removal order and the peek operation.
+Question 2. Compare stack and queue removal.
+Question 3. Describe one use of a stack in program execution.

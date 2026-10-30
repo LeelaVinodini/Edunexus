@@ -1,0 +1,8 @@
+Network and Web Application Security
+
+Course: Cyber Security and Information Security (CSE401-A)
+Semester: 7, Academic Year: 4, Section: A
+
+This unit covers network and web application security for Cyber Security and Information Security.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

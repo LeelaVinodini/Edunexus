@@ -1,0 +1,8 @@
+Relational Model, SQL and Normalization
+
+Course: Database Management Systems (CSE205-B)
+Semester: 4, Academic Year: 2, Section: B
+
+This unit covers relational model, sql and normalization for Database Management Systems.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

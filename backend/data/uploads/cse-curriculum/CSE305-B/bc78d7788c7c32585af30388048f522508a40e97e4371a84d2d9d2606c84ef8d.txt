@@ -1,0 +1,8 @@
+Supervised Learning and Regression
+
+Course: Machine Learning (CSE305-B)
+Semester: 6, Academic Year: 3, Section: B
+
+This unit covers supervised learning and regression for Machine Learning.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

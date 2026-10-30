@@ -1,0 +1,8 @@
+Security Goals, Threats and Attacks
+
+Course: Cyber Security and Information Security (CSE401-B)
+Semester: 7, Academic Year: 4, Section: B
+
+This unit covers security goals, threats and attacks for Cyber Security and Information Security.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

@@ -1,0 +1,8 @@
+Classification and Ensemble Methods
+
+Course: Machine Learning (CSE305-A)
+Semester: 6, Academic Year: 3, Section: A
+
+This unit covers classification and ensemble methods for Machine Learning.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

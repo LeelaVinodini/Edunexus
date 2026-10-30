@@ -1,0 +1,8 @@
+Memory Management and Virtual Memory
+
+Course: Operating Systems (CSE204-B)
+Semester: 4, Academic Year: 2, Section: B
+
+This unit covers memory management and virtual memory for Operating Systems.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

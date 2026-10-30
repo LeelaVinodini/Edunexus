@@ -1,0 +1,8 @@
+NP-Completeness and Approximation Algorithms
+
+Course: Design and Analysis of Algorithms (CSE206-B)
+Semester: 4, Academic Year: 2, Section: B
+
+This unit covers np-completeness and approximation algorithms for Design and Analysis of Algorithms.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

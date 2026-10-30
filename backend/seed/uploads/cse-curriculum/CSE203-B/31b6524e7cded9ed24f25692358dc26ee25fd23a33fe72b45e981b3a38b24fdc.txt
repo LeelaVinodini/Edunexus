@@ -1,0 +1,8 @@
+Graph Theory and Traversals
+
+Course: Discrete Mathematics and Graph Theory (CSE203-B)
+Semester: 3, Academic Year: 2, Section: B
+
+This unit covers graph theory and traversals for Discrete Mathematics and Graph Theory.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

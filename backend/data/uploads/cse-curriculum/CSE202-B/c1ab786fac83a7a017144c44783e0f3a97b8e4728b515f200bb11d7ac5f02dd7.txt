@@ -1,0 +1,8 @@
+Digital Logic and Data Representation
+
+Course: Computer Organization and Architecture (CSE202-B)
+Semester: 3, Academic Year: 2, Section: B
+
+This unit covers digital logic and data representation for Computer Organization and Architecture.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

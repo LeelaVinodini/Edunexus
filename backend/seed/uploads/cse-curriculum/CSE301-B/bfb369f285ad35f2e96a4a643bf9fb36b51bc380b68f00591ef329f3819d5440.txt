@@ -1,0 +1,8 @@
+Network Models, Protocols and Layering
+
+Course: Computer Networks (CSE301-B)
+Semester: 5, Academic Year: 3, Section: B
+
+This unit covers network models, protocols and layering for Computer Networks.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

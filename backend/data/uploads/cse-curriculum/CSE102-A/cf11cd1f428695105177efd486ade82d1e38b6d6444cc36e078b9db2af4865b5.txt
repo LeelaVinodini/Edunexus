@@ -1,0 +1,8 @@
+Lasers and Fibre Optics
+
+Course: Engineering Physics (CSE102-A)
+Semester: 1, Academic Year: 1, Section: A
+
+This unit covers lasers and fibre optics for Engineering Physics.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

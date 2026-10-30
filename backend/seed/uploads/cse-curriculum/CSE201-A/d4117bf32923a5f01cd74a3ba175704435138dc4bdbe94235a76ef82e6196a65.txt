@@ -1,0 +1,8 @@
+Trees, Heaps and Hashing
+
+Course: Data Structures and Algorithms (CSE201-A)
+Semester: 3, Academic Year: 2, Section: A
+
+This unit covers trees, heaps and hashing for Data Structures and Algorithms.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

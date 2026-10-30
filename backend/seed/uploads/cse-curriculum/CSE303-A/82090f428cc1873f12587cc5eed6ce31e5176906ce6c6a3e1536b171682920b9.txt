@@ -1,0 +1,8 @@
+Lexical Analysis and Finite Automata
+
+Course: Compiler Design (CSE303-A)
+Semester: 5, Academic Year: 3, Section: A
+
+This unit covers lexical analysis and finite automata for Compiler Design.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

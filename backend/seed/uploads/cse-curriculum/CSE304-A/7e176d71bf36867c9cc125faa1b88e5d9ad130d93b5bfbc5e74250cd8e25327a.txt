@@ -1,0 +1,8 @@
+Introduction, Intelligent Agents and Problem Solving
+
+Course: Artificial Intelligence (CSE304-A)
+Semester: 6, Academic Year: 3, Section: A
+
+This unit covers introduction, intelligent agents and problem solving for Artificial Intelligence.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

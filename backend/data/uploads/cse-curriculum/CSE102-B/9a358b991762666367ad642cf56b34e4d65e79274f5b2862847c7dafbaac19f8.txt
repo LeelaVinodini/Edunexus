@@ -1,0 +1,8 @@
+Physical Optics and Interference
+
+Course: Engineering Physics (CSE102-B)
+Semester: 1, Academic Year: 1, Section: B
+
+This unit covers physical optics and interference for Engineering Physics.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

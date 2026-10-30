@@ -1,0 +1,8 @@
+Interfaces, Packages and Exception Handling
+
+Course: Object-Oriented Programming (C++/Java) (CSE106-A)
+Semester: 2, Academic Year: 1, Section: A
+
+This unit covers interfaces, packages and exception handling for Object-Oriented Programming (C++/Java).
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

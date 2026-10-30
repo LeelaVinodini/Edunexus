@@ -1,0 +1,8 @@
+CPU Scheduling Algorithms
+
+Course: Operating Systems (CSE204-B)
+Semester: 4, Academic Year: 2, Section: B
+
+This unit covers cpu scheduling algorithms for Operating Systems.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

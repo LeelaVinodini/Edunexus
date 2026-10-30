@@ -1,0 +1,8 @@
+Technical Report Writing
+
+Course: Seminar and Comprehensive Viva (CSE406-B)
+Semester: 8, Academic Year: 4, Section: B
+
+This unit covers technical report writing for Seminar and Comprehensive Viva.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

@@ -1,0 +1,8 @@
+Atomic Structure and Chemical Bonding
+
+Course: Engineering Chemistry (CSE105-B)
+Semester: 2, Academic Year: 1, Section: B
+
+This unit covers atomic structure and chemical bonding for Engineering Chemistry.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

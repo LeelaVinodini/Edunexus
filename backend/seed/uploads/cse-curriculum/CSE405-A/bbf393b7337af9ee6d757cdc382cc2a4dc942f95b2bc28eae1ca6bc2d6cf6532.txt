@@ -1,0 +1,8 @@
+Thesis Writing and Final Defence
+
+Course: Major Project Phase II / Research Thesis (CSE405-A)
+Semester: 8, Academic Year: 4, Section: A
+
+This unit covers thesis writing and final defence for Major Project Phase II / Research Thesis.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.

@@ -1,0 +1,8 @@
+Differential Calculus and Its Applications
+
+Course: Engineering Mathematics I (CSE101-A)
+Semester: 1, Academic Year: 1, Section: A
+
+This unit covers differential calculus and its applications for Engineering Mathematics I.
+Topics include fundamental concepts, worked examples, and practice problems.
+Students are expected to understand the theoretical foundations and apply them to practical problems.
